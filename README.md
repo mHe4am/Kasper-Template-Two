@@ -8,4 +8,4 @@ This template is a practical application of "Elzero - Template 02" playlist:
 https://youtube.com/playlist?list=PLDoPjvoNmBAy1l-2A21ng3gxEyocruT0t
 
 ### Live-Demo
-https://cu-da.github.io/Kasper-Template-Two/
+https://mHe4am.github.io/Kasper-Template-Two/
